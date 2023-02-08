@@ -29,7 +29,7 @@ Hillgrove Town is a map made in-house by SMRT Virtual Studios. This map includes
 Step 1:
 Simply click on the Releases Header, and select the respective 7z files.
 ```
-![rl-1](https://user-images.githubusercontent.com/77185714/157461775-f0d10b59-3808-4d06-b5d4-e503b9f684c3.png)
+![rl-1](https://user-images.githubusercontent.com/77185714/217567276-99dfb1a7-2c5d-4e6f-9cc2-04241b4b6914.png)
 
 File Size: about xxxGB
 

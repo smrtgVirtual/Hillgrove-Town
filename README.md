@@ -5,7 +5,7 @@ Hillgrove Town is a map made in-house by SMRT Virtual Studios. This map includes
 
 ## What's Included
 - SMRT Uniform (Humans)
-- the maps itself (Hillgrove Town & Woodlands Town)
+- the maps itself (Hillgrove Town only)
 - Sceneryobjects
 - Splines
 - Vehicles (HOFs & Sobol's A39)

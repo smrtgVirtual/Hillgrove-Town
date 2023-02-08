@@ -1,7 +1,7 @@
-# Hillgrove Town
+# Hillgrove Town - Version 2.0 BETA 1
 
 ## About Maps
-Hillgrove Town is a map made in-house by SMRT Virtual Studios. This map includes 13 drivable services – 301, 302, 307, 308, 974, 975, 976, 979, 983, 984, 989, 990 and 991.
+Hillgrove Town is a map made in-house by SMRT Virtual Studios. This map includes 15 drivable services – 301, 302, 307, 308, 971, 973, 974, 975, 976, 979, 983, 984, 989, 990 and 991.
 
 ## What's Included
 - SMRT Uniform (Humans)
@@ -10,8 +10,19 @@ Hillgrove Town is a map made in-house by SMRT Virtual Studios. This map includes
 - Splines
 - Vehicles (HOFs & Sobol's A39)
 
-## Things to note:
+## Things to note (comparison from Version 1.0):
+- 971, 974 and 976 has been amended. See Route Hints to navigate.
+- 974M and 974A has been removed.
+- The following route number has changed:
+<br /> 981 > 301
+<br /> 982 > 302
+<br /> 987 > 307
+<br /> 988 > 308
 
+- The following route has changed:
+<br /> 976's current routing > 973
+<br /> 983's current routing > 971
+<br /> 974M's current routing > 974 (as a result, 974A and 974M has ceased)
 
 ### How to Download?
 ```

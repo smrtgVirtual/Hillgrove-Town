@@ -31,7 +31,8 @@ Simply click on the Releases Header, and select the respective 7z files.
 ```
 ![rl-1](https://user-images.githubusercontent.com/77185714/217567276-99dfb1a7-2c5d-4e6f-9cc2-04241b4b6914.png)
 
-File Size: about xxxGB
+File Size: 
+![image](https://user-images.githubusercontent.com/77185714/218263079-b53dc566-fe85-4b98-b5e3-0874fde24e25.png)
 
 ### What's next?
 ```

@@ -8,7 +8,7 @@ Hillgrove Town is a map made in-house by SMRT Virtual Studios. This map includes
 - the maps itself (Hillgrove Town only)
 - Sceneryobjects
 - Splines
-- Vehicles (HOFs & Sobol's A39)
+- Vehicles (HOFs & A&S' A22)
 
 ## Things to note (comparison from Version 1.0):
 - 971, 974 and 976 has been amended. See Route Hints to navigate.
